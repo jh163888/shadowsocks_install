@@ -7,6 +7,7 @@ export PATH
 #   Author: Teddysun <i@teddysun.com>                               #
 #   Thanks: @madeye <https://github.com/madeye>                     #
 #   Intro:  https://teddysun.com/357.html                           #
+#   Mod:    Jasuit                                                  #
 #===================================================================#
 
 # Current folder
